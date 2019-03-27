@@ -17,3 +17,4 @@ names(tdesempadi)
 names(tdesempmul)
 ###Para extraer la variables
 tdesempadi$trend
+FLDSMDFR
